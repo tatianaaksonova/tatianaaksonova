@@ -1,4 +1,31 @@
 ### Hi there 👋
+# Tetiana Aksonova resume
+# DevOps Engineer
+
+## Contact Information
+
+
+## Summary
+
+## Education
+
+## Experience
+
+## Skills
+
+* Programming languages: HTML, CSS
+* Development tools: Git, JIRA, Visual Studio Code
+* Agile methodologies: Scrum, Kanban
+* Database management: MySQL
+* Operating systems: Windows, Linux, macOS
+
+## Projects
+
+## Certifications
+
+## References
+
+Available upon request.
 
 <!--
 **tatianaaksonova/tatianaaksonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
